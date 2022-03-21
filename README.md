@@ -1,7 +1,7 @@
-# Project Name:  Lesson 3 Version Control
+# Project Name:  Lesson 3 Version Control for CP Again
 
 ## Course Title:
-LIS 2360:  Web Application Development
+LIS 2360:  Web Application Development tsting for CP
 
 ## Assignment Date:  
 (Month Day, Year)
